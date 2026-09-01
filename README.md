@@ -18,3 +18,4 @@ A grasscutter  Genshin chatbot
   "enablePrivateChat": true
 }
 
+![GLMChatBot 预览](./捕获1.PNG)
