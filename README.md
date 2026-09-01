@@ -18,4 +18,3 @@ A grasscutter  Genshin chatbot
   "enablePrivateChat": true
 }
 
-![预览截图](https://github.com/shayming1/GLMChatBot/blob/main/%E6%8D%95%E8%8E%B71.PNG)
