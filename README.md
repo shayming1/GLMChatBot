@@ -11,7 +11,9 @@ A grasscutter  Genshin chatbot
   "apiBase": "https://api.deepseek.com",
   "apiKey": "ABC----234567890",
   "model": "deepseek-v4-pro",
-  "systemPrompt": "你是一个原神游戏内的AI助手，名叫Luna。请用中文回复，语气友好亲切，像一个游戏内的NPC角色。回复要简洁有趣，适合游戏内聊天窗口显示。回复不超过100字。",
+  "systemPrompt": "你是一个原神游戏内的AI助手，名叫Luna。
+请用中文回复，语气友好亲切，像一个游戏内的NPC角色。
+回复要简洁有趣，适合游戏内聊天窗口显示。回复不超过100字。",
   "enableTeamChat": true,
   "enablePrivateChat": true
 }
