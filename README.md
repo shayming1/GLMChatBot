@@ -1,12 +1,11 @@
 # GLMChatBot
 A grasscutter  Genshin chatbot
 
+## 配置文件示例
 
+以下是 `plugins/GLMChatBot/plugin.json` 的示例配置：
 
-
-plugins/GLMChatBot/plugin.json
-
-
+```json
 {
   "bridgeUrl": "http://localhost:5117/chat",
   "apiBase": "https://api.deepseek.com",
@@ -16,6 +15,4 @@ plugins/GLMChatBot/plugin.json
   "enableTeamChat": true,
   "enablePrivateChat": true
 }
-
-
 也许有一天你能看到两个丘丘人在那讨论微积分
