@@ -1,7 +1,7 @@
 # GLMChatBot
 A grasscutter  Genshin chatbot
 也许有一天你能看到两个丘丘人在那讨论微积分
-## 配置文件示例
+## 配置文件示例 java 17 
 
 以下是 `plugins/GLMChatBot/plugin.json` 的示例配置：
 
